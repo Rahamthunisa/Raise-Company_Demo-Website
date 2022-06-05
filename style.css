@@ -109,8 +109,8 @@ nav .fa{
         cursor:pointer;
     }
 }
-/*------course----*/
-.course{
+/*------product----*/
+.product{
     width: 80%;
     margin: auto;
     text-align: center;
@@ -132,7 +132,7 @@ p{
     display: flex;
     justify-content: space-between;
 }
-.course-col{
+.product-col{
     flex-basis: 31%;
     background: #bfcfef;
     border-radius: 10px;
@@ -146,7 +146,7 @@ h3{
     font-weight: 600;
     margin: 10px;
 }
-.course-col:hover{
+.product-col:hover{
     box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
 }
 @media(max-width:700px){
